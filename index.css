@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(192, 188, 188);
+}
+.fa{
+    color:blue;
+    font-size:30px;
+}
+a{
+    border-bottom:1px solid blue;
+}
+.box-part{
+    background-color:white;
+    margin:15px 0px;
+    padding:60px 10px;
+    
+}
+.box{
+    padding:20px;
+}
+.text{
+    margin:20px 1px;
+}
